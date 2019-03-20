@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ECS-160-12-33Q-JES-TR.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\Projects\AMU_Version_3\ECS-160-12-33Q-JES-TR\ECS-160-12-33Q-JES-TR.lia
+    Section : PCB Library - ECS-160-12-33Q-JES-TR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ECS-160-12-33Q-JES-TR On Line 121
+            Warning - 1 : Skipping Token attachedSymbol On Line 188
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ECS-160-12-33Q-JES-TR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 110
+        EndSection
+
+        Section : Generating SCH Library - ECS-160-12-33Q-JES-TR.SchLib
+        EndSection
+    EndSection
+EndSection
