@@ -1,3 +1,4 @@
+![QUTMS_Banner](https://raw.githubusercontent.com/Technosasquach/QUTMS_Master/master/src/qutmsBanner.jpg)
 # QUTMS AMU V2
 The Version 2 of the Accumulator Managment Unit. 
 
